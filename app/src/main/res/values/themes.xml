@@ -1,0 +1,4 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.GS2_2025_RM550120" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
